@@ -1,2 +1,2 @@
 # AI-basic-income-bot
-An one-account-multiple-sites basic income bot for poor people.
+An one-account-multiple-sites, legal, and low-profile income bot for poor people.
